@@ -77,6 +77,7 @@ namespace TPInterfaces
 
             Console.WriteLine("ajout d'un Console.WriteLine");
             Console.WriteLine("ajout d'un deuxieme Console.WriteLine");
+            Console.WriteLine("ajout d'un troisieme Console.WriteLine");
 
             Console.ReadKey();
         }
