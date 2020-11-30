@@ -75,6 +75,8 @@ namespace TPInterfaces
             Console.WriteLine();
             ge1.trierEleves();
 
+            Console.WriteLine("ajout d'un Console.WriteLine");
+
             Console.ReadKey();
         }
     }
